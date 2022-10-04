@@ -1,0 +1,26 @@
+body {
+    background-image: url('Resources/NevadoRuiz.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: relative;
+    height: 600px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+p {
+    width: auto;
+    height: auto;
+}
+h1 {
+    font-size: 60px;
+    margin-top: 150px;
+}
+h2 {
+    font-size: 30px;
+}
+p {
+    margin-top: 200px;
+    color: white;
+    font-style: italic;
+}
